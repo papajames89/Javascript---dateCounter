@@ -6,7 +6,7 @@
 }
 
 .section {
-  background-image: url('/bg-croatia.jpg');
+  background-image: url('./bg-croatia.jpg');
   background-position: center;
   background-size: cover;
   height: 100%;
